@@ -7,44 +7,44 @@ Linear Regression is a Supervised Machine Learning Model for finding the relatio
 
 The following modules are imported from python
 
-import pandas as pd
+# import pandas as pd
 
-import sklearn as sk
+# import sklearn as sk
 
-import numpy as np
+# import numpy as np
 
-import seaborn as sns
+# import seaborn as sns
 
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
-import warnings
+# import warnings
 
-warnings.filterwarnings('ignore')
+# warnings.filterwarnings('ignore')
 
-import os
+# import os
 
-import json
+# import json
 
-from scipy.stats import norm
+# from scipy.stats import norm
 
-from sklearn.model_selection import train_test_split
+# from sklearn.model_selection import train_test_split
 
-from sklearn.model_selection import cross_val_score
+# from sklearn.model_selection import cross_val_score
 
-from sklearn.model_selection import cross_val_predict
+# from sklearn.model_selection import cross_val_predict
 
-from sklearn.model_selection import StratifiedKFold
+# from sklearn.model_selection import StratifiedKFold
 
-from sklearn.metrics import mean_squared_error
+# from sklearn.metrics import mean_squared_error
 
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 
-from sklearn.preprocessing import PolynomialFeatures
+# from sklearn.preprocessing import PolynomialFeatures
 
-from sklearn.ensemble import RandomForestRegressor
+# from sklearn.ensemble import RandomForestRegressor
 
-from sklearn import metrics
+# from sklearn import metrics
 
-import statsmodels.api as sm
+# import statsmodels.api as sm
 
-from sklearn.preprocessing import LabelEncoder
+# from sklearn.preprocessing import LabelEncoder
