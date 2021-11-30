@@ -8,11 +8,17 @@ Linear Regression is a Supervised Machine Learning Model for finding the relatio
 The following modules are imported from python
 
 import pandas as pd
+
 import sklearn as sk
+
 import numpy as np
+
 import seaborn as sns
+
 import matplotlib.pyplot as plt
+
 import warnings
+
 warnings.filterwarnings('ignore')
 
 import os
